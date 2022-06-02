@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1653006364 source:c:\users\jpgon\desktop\coisas faculdade\estudos dirigidos\estudo dirigido iii\daibert\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
+1654211270 source:c:\users\jpgon\desktop\nova pasta\coisas faculdade\estudos dirigidos\estudo dirigido iii\daibert\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
